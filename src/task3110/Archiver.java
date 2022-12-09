@@ -1,6 +1,7 @@
 package task3110;
 
-import com.javarush.task.task31.task3110.exception.WrongZipFileException;
+
+import task3110.exception.WrongZipFileException;
 
 import java.io.IOException;
 
